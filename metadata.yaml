@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31738'
     url: http://www.gutenberg.org/2009/agents/31738
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26014#Practical-Taxidermy--13-A-manual-of-instruction-to-the-amateur-in-collecting-preserving-and-s_
 gutenberg_bookshelf:
 - Crafts
 - Animals-Wild-Trapping

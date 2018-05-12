@@ -1,0 +1,31 @@
+_repo: Practical-Taxidermy--13-A-manual-of-instruction-to-the-amateur-in-collecting-preserving-and-s__26014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, Montagu
+    gutenberg_agent_id: '31738'
+    url: http://www.gutenberg.org/2009/agents/31738
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Animals-Wild-Trapping
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26014'
+  lccn: 04009008
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taxidermy'
+- !lcc 'QL'
+title: "Practical Taxidermy\r\nA manual of instruction to the amateur in collecting,\
+  \ preserving, and setting up natural history specimens of all kinds. To which is\
+  \ added a chapter upon the pictorial arrangement of museums. With additional instructions\
+  \ in modelling and artistic taxidermy."
+url: http://www.gutenberg.org/ebooks/26014
